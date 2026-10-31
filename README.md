@@ -1,7 +1,7 @@
 # 👋 Hi, I'm HopingBoyz
 
 **Full-stack developer specializing in hosting panels, Minecraft tools, and server infrastructure**  
-**Founder of [Atyro Cloud](https://atyro.cloud)** 🚀
+**Founder of [Atyro Cloud](https://atyro.cloud)** ☁️
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -12,27 +12,32 @@
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-I build modern hosting panels, Minecraft management tools, Discord bots, and server automation systems. I'm passionate about **Node.js, Linux, Proxmox VE, Docker, virtualization, and cloud infrastructure**, creating tools that make server management easier and more accessible.
+I'm HopingBoyz, a developer and tech content creator passionate about **web development, VPS hosting, virtualization, and Minecraft infrastructure**. I build hosting panels, Discord bots, automation tools, and server management solutions.
 
----
+**Featured Projects:** [Pterodactyl Blueprint Installer](https://github.com/hopingboyz/blueprint) • [HVM Panel](https://github.com/hopingboyz/hvm-panel) • [UnixPanel](https://github.com/hopingboyz/unix-panel)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hopingboyz?cardType=level&theme=github-dark&preferLogin=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hopingboyz&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hopingboyz&show_icons=true&theme=dark&hide_border=true" alt="Hopingboyz GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopingboyz&layout=compact&theme=dark&hide_border=true" alt="Hopingboyz Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopingboyz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopingboyz&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hopingboyz?cardType=level&theme=github-dark&preferLogin=false" alt="GitHub Stats Level" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopingboyz&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
----
+## 🌐 Connect With Me
 
-## 🌐 Connect & Support
+<p align="center">
+  <a href="https://github.com/hopingboyz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://youtube.com/@HopingBoyz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://atyro.cloud"><img src="https://img.shields.io/badge/Atyro%20Cloud-FF8C00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Atyro Cloud" /></a>
+  <a href="https://discord.gg/kSTZZvZBhK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hopingboyz&color=orange&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -40,4 +45,4 @@ I build modern hosting panels, Minecraft management tools, Discord bots, and ser
   <img src="https://img.shields.io/github/stars/hopingboyz?style=flat-square&color=yellow&label=Stars" alt="GitHub Stars" />
 </p>
 
-> 💡 Open to collaborations on hosting panels, Minecraft tools, automation, and cloud infrastructure. Let's build something awesome! ⚡
+> 💡 Open to collaborations on hosting panels, Minecraft development, cloud infrastructure, and automation. **Building, learning, and innovating with HopingBoyz.** ⚡
